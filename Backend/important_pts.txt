@@ -10,3 +10,14 @@
 
 await in js is used with async functions and it take appropriate actions according to whether the promise is resolved or rejected
 
+MongoDB Atlas is the cloud-based database service provided by MongoDB, Inc. It lets you run, manage, and scale MongoDB databases on cloud platforms like AWS, Azure, or Google Cloud—without having to manage the infrastructure yourself.
+
+An .env file is a simple text file that stores environment variables for your app — like secret keys, database URLs, and configuration values.
+PORT=5000
+MONGO_URI=mongodb+srv://user:pass@cluster.mongodb.net/mydb
+JWT_SECRET=some-long-random-string
+CLIENT_URL=http://localhost:3000
+
+
+JWT (JSON Web Token) Secret
+When using JWT for user authentication, you need a secure secret key to sign and verify tokens.
