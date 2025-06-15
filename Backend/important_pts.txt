@@ -6,3 +6,7 @@
         "mongoose": "^8.15.2",      //Used to interact with MongoDB using schema-based modeling.
         "multer": "^2.0.1",
         "xlsx": "^0.18.5"           //for excel files
+
+
+await in js is used with async functions and it take appropriate actions according to whether the promise is resolved or rejected
+
